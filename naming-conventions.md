@@ -1,4 +1,4 @@
-## Rethinking CSS style names for developers who want to writer more modular code and do other developer stuff good too
+## Rethinking CSS style names for developers who want to write more modular code and do other developer stuff good too
 
 > Inspirational text about why you should care. Because if you don't care about your code, who will?  
 > \- Some web developer
