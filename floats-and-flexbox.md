@@ -1,4 +1,9 @@
 # Floats, flexbox, and you
+
+## Outcomes
+- Know how to work with floating elements
+- Know hot to work with flexbox
+
 Live version: http://codepen.io/mklemme/pen/xbZMXP?editors=110
 ```html
 <div class="box">
