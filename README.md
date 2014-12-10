@@ -35,7 +35,5 @@ It forces anything that adds to the element's height or width to be included in 
 
 - [Naming Conventions](https://github.com/mklemme/advanced-css/blob/master/naming-conventions.md) and writing modular code
 - [Selectors](https://github.com/mklemme/advanced-css/blob/master/selectors.md)
-- [Media query](that) and responsive design
-- Working with [margins](that)
 - [Floats](https://github.com/mklemme/advanced-css/blob/master/floats-and-flexbox.md)
-- [Margins](https://github.com/mklemme/advanced-css/blob/master/margins.md)
+- Working with [margins](https://github.com/mklemme/advanced-css/blob/master/margins.md)
