@@ -44,3 +44,24 @@ Coupled with the neccesary html:
 ```html
 <a href="http://example.com" class="button">Example.com</a>
 ```
+
+### Variants
+### Parent & children elements (nested)
+### Subclasses
+```css
+.input {
+  padding: 10px
+}
+
+.input.inputDropdown {
+  &:after{
+    content: "\25BE";
+  }
+}
+```
+### Modifiers
+```css
+.button.disabled{
+  cursor:not-allowed;
+}
+```
