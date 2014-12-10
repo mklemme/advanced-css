@@ -1,4 +1,10 @@
 # Negative margins
+
+## Outcomes
+- Use margins (positive)
+- Use and understand negative margins
+- Understand how collapsing margins work  
+
 http://codepen.io/mklemme/pen/gbPyRX?editors=110  
 http://www.smashingmagazine.com/2009/07/27/the-definitive-guide-to-using-negative-margins/
 
