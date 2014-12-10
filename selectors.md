@@ -2,7 +2,11 @@
 
 ## Working with CSS selectors
 
-See [week 1's ](https://github.com/wdi-sf-fall/notes/tree/master/week_01_fundamentals/day_2_productivity_htmlcssbootstrap/dusk_html_css%20and%20bootstrap#css) lecture for review
+See [week 1's ](https://github.com/wdi-sf-fall/notes/tree/master/week_01_fundamentals/day_2_productivity_htmlcssbootstrap/dusk_html_css%20and%20bootstrap#css) lecture for review.
+
+### Outcomes
+- Know the different types of css selectors
+- Know when to use each type
 
 ### 5 Basic ways to select an element:
 Because we are now wirting modular CSS, we are not going to write our global CSS inline or in the header. Instead, we all agree to link to external stylesheets.
