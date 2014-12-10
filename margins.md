@@ -1,5 +1,6 @@
 # Negative margins
 http://codepen.io/mklemme/pen/gbPyRX?editors=110
+http://www.smashingmagazine.com/2009/07/27/the-definitive-guide-to-using-negative-margins/
 
 Long story short:
 If you apply a negative margin to the top or left, it moves the element in that direction. If you use it on the bottom or right, it pulls the objects to it. Weird, huh?
