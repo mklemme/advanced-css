@@ -106,13 +106,13 @@ Transform your old legacy code:
 ```
 into this:
 ```html
-<div itemscope itemtype="http://schema.org/Article" class="post">  
+<article itemscope itemtype="http://schema.org/Article" class="post">  
   <span itemprop="name" class="post-title">Features of the w3resource JavaScript tutorials</span>  
   by <span itemprop="author" class="post-author">Rameshwar Ghosh</span>  
   This article has received 7 likes in facebook and received 3 google plus.  
   <meta itemprop="interactionCount" content="FacebookLikes:7"/>  
   <meta itemprop="interactionCount" content="GooglePlus:3"/>  
-</div>
+</article>
 ```
 
 ### Why care?
