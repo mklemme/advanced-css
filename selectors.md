@@ -54,10 +54,4 @@ You can also apply styles when **ALL** the classes or IDs in the selecting state
 
 ### Nifty CSS selectors
 
-Select everything on the page  
-```css
-* {
-}
-```
-
 http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
