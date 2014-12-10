@@ -6,11 +6,7 @@
 ## Before you write that beautiful CSS
 
 ### Normalizing your canvas
-Different browsers have different base styles. To get around the issue of browsers destroying your hard work, it's wise to use normalizing methods to standardize everything. Luckily there are numerous libraries available. Here are some that I recommend:
-
-- Link 1
-- Link 2
-- Link 3
+Different browsers have different base styles. To get around the issue of browsers destroying your hard work, it's wise to use normalizing methods to standardize everything. Luckily there are numerous libraries available.
 
 **Why not reset?**
 Reset removes the base styling, where normalizing the all the elements gives you a foundation to work on and apply your styles to.
@@ -37,13 +33,9 @@ It forces anything that adds to the element's height or width to be included in 
 
 ## Getting started
 
-- [Naming Conventions](url) and writing modular code
-- [Selectors](that)
+- [Naming Conventions](https://github.com/mklemme/advanced-css/blob/master/naming-conventions.md) and writing modular code
+- [Selectors](https://github.com/mklemme/advanced-css/blob/master/selectors.md)
 - [Media query](that) and responsive design
-- [Positioning](that)
-- [Z-index](that)
 - Working with [margins](that)
-- [Floats](that)
-- [Backgrounds](that)
-- [Sprites](that)
-- [Fonts](that) on the web
+- [Floats](https://github.com/mklemme/advanced-css/blob/master/floats-and-flexbox.md)
+- [Margins](https://github.com/mklemme/advanced-css/blob/master/margins.md)
