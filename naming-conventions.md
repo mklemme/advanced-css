@@ -46,22 +46,44 @@ Coupled with the neccesary html:
 ```
 
 ### Variants
+```css
+.buttonLoud {
+  background: #739ECF;
+  text-transform: uppercase;
+}
+```
 ### Parent & children elements (nested)
+```css
+article{}
+.articleTitle{}
+.articleAuthor
+```
 ### Subclasses
 ```css
 .input {
   padding: 10px
 }
 
-.input.inputDropdown {
+.inputDropdown {
   &:after{
     content: "\25BE";
   }
 }
 ```
+
 ### Modifiers
 ```css
 .button.disabled{
   cursor:not-allowed;
+}
+```
+These can also be helper classes:
+```css
+.text-right {
+  text-align: right;
+}
+
+.inline-block {
+  display: inline-block;
 }
 ```
