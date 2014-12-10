@@ -1,3 +1,4 @@
+![computer](http://media.giphy.com/media/vjmSleUsnXU8o/giphy.gif)
 ## Rethinking CSS style names for developers who want to write more modular code and do other developer stuff good too
 
 > Inspirational text about why you should care. Because if you don't care about your code, who will?  
